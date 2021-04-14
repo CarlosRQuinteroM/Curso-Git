@@ -108,3 +108,16 @@ Esto es un Texto que  separa las dos citas.
 
 > Esto es una segunda cita.
 
+
+# Lineas divisoras 
+Esto es un texto cualquiera que sera dividido por guiones .
+
+---
+Esto es otro texto dividido asteriscos .
+
+***
+
+Esto es otro texto dividido por guines bajos.
+
+___
+
