@@ -91,3 +91,9 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+# Tablas 
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Carlos  | Quintero | DNI |
+| Juan | Perez | DNI |
