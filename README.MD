@@ -101,9 +101,10 @@ export  $initHighlight;
 
 # Citas 
 Esto es un texto referente a una cita que pondremos debajo:
+
 > Esto es una cita.
 
 Esto es un Texto que  separa las dos citas.
 
-> Esto es una segundo texto.
+> Esto es una segunda cita.
 
