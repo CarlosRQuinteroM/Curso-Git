@@ -6,7 +6,7 @@
 ###### Cabecera H6
 Underline 1
 ------------
-underline 2
+Underline 2
 =====
 
 - Formato *italica* de la primera forma.
